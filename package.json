@@ -1,0 +1,16 @@
+{
+  "name": "pos-app",
+  "version": "1.0.0",
+  "description": "deplot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RPH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "serve-static": "^1.14.1"
+  }
+}
