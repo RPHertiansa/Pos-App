@@ -5,9 +5,9 @@ Sales is one of the backbone of every company, either it is a product or a servi
 Food POS app is live! Please click this [link](http://50.17.100.170:8007/) to take it for a spin.
 
 #### Source code:
-[Front-End](https://github.com/RPHertiansa/chat-front)
+[Front-End](https://github.com/RPHertiansa/pos-front)
 
-[Back-End](https://github.com/RPHertiansa/chat-back)
+[Back-End](https://github.com/RPHertiansa/pos-back)
 
 ## Preview
 ### Homepage
